@@ -1,2 +1,4 @@
+.vs
 Thumbs.db
 *.vcproj.*.user
+Debug/
